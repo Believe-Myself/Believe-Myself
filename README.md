@@ -1,4 +1,5 @@
 ### Hi guys! 👋
+Welcome to my github page~
 
 - 🌱 I’m currently learning at Chinese University of Geoscienses
 
