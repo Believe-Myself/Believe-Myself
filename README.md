@@ -1,5 +1,7 @@
 ### Hi guys! 👋
 
+- 🌱 I’m currently learning at Chinese University of Geoscienses
+
 <!--
 **Believe-Myself/Believe-Myself** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
